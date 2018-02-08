@@ -1,0 +1,162 @@
+#mainheader {
+   background-color: black;
+   padding-bottom: 300px;
+   padding-top: 320px; 
+}
+
+#mainheader h1{
+    text-align: center;
+    color: #d1af94;
+    animation-duration: 6s;
+    font-size: 50px;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+}
+
+#about {
+    background-color: #d1af94;
+    padding-bottom: 300px;
+    padding-top: 300px; 
+}
+
+#about h2 {
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    bottom: 200px;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;    
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#about p{
+    text-align: center;
+    position: relative;
+    bottom: 190px;
+    font-size: 30px;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+}
+
+#about ul {
+    list-style: none;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal; 
+    font-weight: bold;  
+}
+
+#about ul li {
+    display: inline-block;
+}
+
+
+
+#Events {
+    background-color: black;
+    color: #d1af94;
+    padding-bottom: 500px;
+    padding-top: 70px; 
+} 
+
+#Events h2 {
+    text-align: center;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+#Events h6 {
+    text-align: center;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: #000;
+}
+
+#Events h4 {
+    text-align: center;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    color: #000;
+}
+
+#Events p {
+    text-align: center;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#Events a {
+    font-size: 40px;
+    color: #d1af94;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+
+
+}
+
+.containerevents {
+    background-color: #d1af94;
+    padding:10px;
+    padding-right: 10px;
+}
+
+
+
+#contact {
+    background-color: #d1af94;
+    color: #000;
+    padding-bottom: 300px;
+    padding-top: 300px;
+}
+
+#contact h2{
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-size: 60px;
+}
+
+#contact p {
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-size: 30px;
+}
+
+#contact li {
+    list-style: none;
+    display: inline-block;
+    padding: 60px;
+}
+
+#footer {
+    background-color: #000;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-weight: bold;
+}
+
+#footer p{
+    color: #d1af94;
+    text-align: center;
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-weight: bolder;
+}
+
+
+
+.container {
+    padding:40px;
+}
